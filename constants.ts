@@ -40,7 +40,7 @@ export const SHOPPING_LIST: ProductItem[] = [
     name: 'Chuveiro Ducha Eletrônica Intense Fame 7800w Super Potente Preta Inox 220v',
     category: 'Hidráulica',
     imageUrl: 'https://http2.mlstatic.com/D_NQ_NP_2X_903207-MLA99874058235_112025-F.webp',
-    purchaseUrl: 'https://www.mercadolivre.com.br/chuveiro-ducha-eletrnica-intense-fame-7800w-super-potente-preta-inox-220-v/p/MLB39257324',
+    purchaseUrl: 'https://mercadolivre.com/sec/2iFqKxW',
     priceEstimate: 'R$ 293,00',
     description: 'Ducha eletrônica com design moderno e controle gradual de temperatura.'
   },
@@ -49,7 +49,7 @@ export const SHOPPING_LIST: ProductItem[] = [
     name: 'Kit Lavabo Luxo Preto/Dourado 22x12cm',
     category: 'Decoração',
     imageUrl: 'https://down-br.img.susercontent.com/file/7ba2a4142596b0da83002b48c5d4f5c4@resize_w450_nl.webp',
-    purchaseUrl: 'https://shopee.com.br/Kit-Lavabo-Preto-Dourado-Preto-Rose-Prata-Luxo-Difusor-de-Ambiente-Saboneteira-Bandeja-22-x-12-cm-2-Passarinhos-Porta-Escova-i.517726053.13092435992',
+    purchaseUrl: 'https://s.shopee.com.br/8V267eqYg3',
     priceEstimate: 'R$ 79,90',
     description: 'Inclui difusor de ambiente, saboneteira, bandeja, 2 passarinhos e porta escova.'
   },
@@ -58,7 +58,7 @@ export const SHOPPING_LIST: ProductItem[] = [
     name: 'Vaso Planta Artificial Decoração Casa Lavabo Kit 3 Unid Cor Preto',
     category: 'Decoração',
     imageUrl: 'https://http2.mlstatic.com/D_Q_NP_669076-MLA82198093420_022025-F.webp',
-    purchaseUrl: 'https://www.mercadolivre.com.br/vaso-planta-artificial-decoraco-casa-lavabo-kit-3-unid-cor-preto/p/MLB44664187',
+    purchaseUrl: 'https://mercadolivre.com/sec/1NS7JXm',
     priceEstimate: 'R$ 27,00',
     description: 'Conjunto com 3 vasos decorativos ideais para nichos e bancadas.'
   },
@@ -67,7 +67,7 @@ export const SHOPPING_LIST: ProductItem[] = [
     name: 'Painel Plafon De Led Taschibra 24w Redondo Sobrepor Preto Cor LUZ NEUTRA 4000K',
     category: 'Iluminação',
     imageUrl: 'https://http2.mlstatic.com/D_NQ_NP_2X_776718-MLA99952954497_112025-F.webp',
-    purchaseUrl: 'https://www.mercadolivre.com.br/painel-plafon-de-led-taschibra-24w-redondo-sobrepor-preto-cor-luz-neutra-4000k/p/MLB21531350',
+    purchaseUrl: 'https://mercadolivre.com/sec/2pGdX5r',
     priceEstimate: 'R$ 41,50',
     description: 'Sobrepor preto, luz neutra 4000K. Design slim moderno e alta eficiência luminosa.'
   },
@@ -76,7 +76,7 @@ export const SHOPPING_LIST: ProductItem[] = [
     name: 'Kit Acessórios Para Banheiro Preto Com 5 Peças',
     category: 'Metais',
     imageUrl: 'https://http2.mlstatic.com/D_NQ_NP_2X_629155-MLA100067597583_122025-F.webp',
-    purchaseUrl: 'https://www.mercadolivre.com.br/kit-acessorios-para-banheiro-preto-com-5-pecas/p/MLB33310037',
+    purchaseUrl: 'https://mercadolivre.com/sec/2iWZHwS',
     priceEstimate: 'R$ 44,45',
     description: 'Alumínio preto fosco. Contém porta toalhas (rosto/banho), papeleira e ganchos.'
   },
@@ -85,7 +85,7 @@ export const SHOPPING_LIST: ProductItem[] = [
     name: 'Torneira De Banheiro Lavabo Luxo Metal Cromada Moderna Preta Preto',
     category: 'Hidráulica',
     imageUrl: 'https://http2.mlstatic.com/D_NQ_NP_2X_649739-MLB96632922241_102025-F.webp',
-    purchaseUrl: 'https://www.mercadolivre.com.br/torneira-de-banheiro-lavabo-luxo-metal-cromada-moderna-preta/up/MLBU784950242',
+    purchaseUrl: 'https://mercadolivre.com/sec/1fM1JAh',
     priceEstimate: 'R$ 52,99',
     description: 'Metal preto fosco, comando 1/4 de volta. Design moderno e acabamento premium.'
   }
