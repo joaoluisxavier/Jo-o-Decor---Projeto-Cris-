@@ -8,7 +8,7 @@ const ProjectRenders: React.FC = () => {
 
   return (
     <section className="w-full pb-8">
-      <div className="px-6 md:px-12 mb-4 text-center md:text-left pt-6">
+      <div className="px-6 md:px-12 mb-4 text-center pt-6">
         <h2 className="text-2xl font-serif text-white">Tour Virtual 360º</h2>
         <p className="text-neutral-400 text-sm mt-1">
           Navegue pelo ambiente interativo abaixo.
