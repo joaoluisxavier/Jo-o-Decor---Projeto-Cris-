@@ -1,8 +1,10 @@
 import React from 'react';
 
 const ProjectRenders: React.FC = () => {
-  // Using the embed version of the provided Kuula link for a cleaner integration
-  const KUULA_EMBED_URL = "https://kuula.co/share/collection/7HDgV?logo=1&info=1&fs=1&vr=0&sd=1&thumbs=1";
+  // Updated parameters:
+  // thumbs=0: Hides the thumbnail bar at the bottom
+  // gy=0: Disables gyroscope (motion control via phone movement)
+  const KUULA_EMBED_URL = "https://kuula.co/share/collection/7HDgV?logo=1&info=1&fs=1&vr=0&sd=1&thumbs=0&gy=0";
 
   return (
     <section className="w-full pb-8">
@@ -26,7 +28,8 @@ const ProjectRenders: React.FC = () => {
             width="100%" 
             height="100%" 
             style={{ border: 'none' }} 
-            allow="xr-spatial-tracking; gyroscope; accelerometer" 
+            // Removed 'gyroscope' and 'accelerometer' to enforce manual control only
+            allow="xr-spatial-tracking; fullscreen" 
             allowFullScreen 
             scrolling="no" 
             src={KUULA_EMBED_URL}
